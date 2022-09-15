@@ -1,0 +1,44 @@
+
+
+#player1-div-login {
+    float:center;     
+ }
+ 
+ #player2-div-login{
+    float:center; 
+    clear: left;
+ }
+
+ .center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #944ce1;
+    padding: 10px;
+    border-radius: 70px;
+  }
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 48px;
+
+}
+
+body {
+    background: #e2cef7;
+
+}
+
+h3 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+label {
+    font-family: 'Patrick Hand', cursive;
+}
+
+#login_btn {
+    font-family: 'Patrick Hand', cursive;
+    background: #b194cf;
+    font-size: 20px;
+    border-radius: 70px;
+}
